@@ -1,0 +1,29 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de distribución
+dist/
+build/
+*.egg-info/
+
+# Archivos de dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivo de dependencias (si decides no versionarlo)
+# requirements.txt
+
+# Otros archivos y directorios comunes para ignorar
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*.pdf
